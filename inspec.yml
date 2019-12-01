@@ -1,0 +1,8 @@
+name: inspec-mcp
+title: InSpec Profile
+maintainer: Nigel Wright <nigel.wright@global.ntt>
+copyright: The Authors
+copyright_email: nigel.wright@global.ntt
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
